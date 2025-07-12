@@ -6,9 +6,11 @@ Mastermind is a simple console game built with C#. The player tries to guess a s
  ## How to Play?
 
 •⁠  ⁠A random 4-digit secret code is generated at the start.
+
 •⁠  ⁠On each turn, the player enters a 4digits guess.
+
 •⁠  ⁠After each guess, the game gives feedback:
-  - Well placed : number of digits that are rignt and in the right position.
+  - Well placed : number of digits that are rignt and in the right place.
   - Misplaced: number of right digits but in the wrong place.
 •⁠  ⁠If the guess is correct, the message shows:
 You cracked the code!
