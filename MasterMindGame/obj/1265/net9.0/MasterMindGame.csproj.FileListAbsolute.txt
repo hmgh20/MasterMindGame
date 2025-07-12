@@ -1,0 +1,14 @@
+/Users/hebaalghamdi/Desktop/Gamecv/MasterMindGame/MasterMindGame/bin/1265/net9.0/MasterMindGame
+/Users/hebaalghamdi/Desktop/Gamecv/MasterMindGame/MasterMindGame/bin/1265/net9.0/MasterMindGame.deps.json
+/Users/hebaalghamdi/Desktop/Gamecv/MasterMindGame/MasterMindGame/bin/1265/net9.0/MasterMindGame.runtimeconfig.json
+/Users/hebaalghamdi/Desktop/Gamecv/MasterMindGame/MasterMindGame/bin/1265/net9.0/MasterMindGame.dll
+/Users/hebaalghamdi/Desktop/Gamecv/MasterMindGame/MasterMindGame/bin/1265/net9.0/MasterMindGame.pdb
+/Users/hebaalghamdi/Desktop/Gamecv/MasterMindGame/MasterMindGame/obj/1265/net9.0/MasterMindGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hebaalghamdi/Desktop/Gamecv/MasterMindGame/MasterMindGame/obj/1265/net9.0/MasterMindGame.AssemblyInfoInputs.cache
+/Users/hebaalghamdi/Desktop/Gamecv/MasterMindGame/MasterMindGame/obj/1265/net9.0/MasterMindGame.AssemblyInfo.cs
+/Users/hebaalghamdi/Desktop/Gamecv/MasterMindGame/MasterMindGame/obj/1265/net9.0/MasterMindGame.csproj.CoreCompileInputs.cache
+/Users/hebaalghamdi/Desktop/Gamecv/MasterMindGame/MasterMindGame/obj/1265/net9.0/MasterMindGame.dll
+/Users/hebaalghamdi/Desktop/Gamecv/MasterMindGame/MasterMindGame/obj/1265/net9.0/refint/MasterMindGame.dll
+/Users/hebaalghamdi/Desktop/Gamecv/MasterMindGame/MasterMindGame/obj/1265/net9.0/MasterMindGame.pdb
+/Users/hebaalghamdi/Desktop/Gamecv/MasterMindGame/MasterMindGame/obj/1265/net9.0/MasterMindGame.genruntimeconfig.cache
+/Users/hebaalghamdi/Desktop/Gamecv/MasterMindGame/MasterMindGame/obj/1265/net9.0/ref/MasterMindGame.dll
