@@ -27,4 +27,5 @@ Out of attempts! The code was:xxxx
 You can run the game with custom settings:
 
 •⁠  ⁠⁠ -c [CODE]⁠ : set your own 4digits secret code (⁠ -c 1234 ⁠)
+
 •⁠  ⁠⁠ -t [ATTEMPTS] ⁠ : set number of allowed attempts (⁠ -t 15 ⁠)
