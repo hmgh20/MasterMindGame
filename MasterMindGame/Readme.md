@@ -22,6 +22,7 @@ Out of attempts! The code was:xxxx
 ## How to Run the Game
 
 1.⁠ ⁠Open terminal.
+
 2.⁠ ⁠Run the command:dotnet run –project MasterMindGame.cspro
 
 ## Optional
