@@ -15,6 +15,7 @@ Mastermind is a simple console game built with C#. The player tries to guess a s
     
 •⁠  ⁠If the guess is correct, the message shows:
 You cracked the code!
+
 •⁠  ⁠If the attempts run out, it displays:
 Out of attempts! The code was:xxxx
 
